@@ -1,3 +1,4 @@
+# This project is not done yet let me get it in alpha then it will be public
 # Bondi-Sream
 ### Bondi-Sream is a video streamer for anything with a browser
 ## Server
