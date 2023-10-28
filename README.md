@@ -3,6 +3,12 @@
 ## Server
 The server for Bondi-stream will only work on MacOS and Linux Windows has so many differences and I don't wanna and can't trust Windows to allow a Windows install if you would like, You are free to make a port to Windows credit is needed.
 
+## Running a Server
+ To run a server first install the github repo by opening a terminal and typing in
+ ```
+git clone https://github.com/HttpAnimation/Bondi-Stream %% cd Bondo-Stream
+```
+
 ## Client
 To use the client you will need to know your public IP for this we are going to use
 ```
