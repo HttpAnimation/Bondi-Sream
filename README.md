@@ -8,6 +8,11 @@ The server for Bondi-stream will only work on MacOS and Linux Windows has so man
  ```
 git clone https://github.com/HttpAnimation/Bondi-Stream %% cd Bondo-Stream
 ```
+Then after an installation in the same Terminal enter in
+```
+./Server.sh
+```
+Now the server is running
 
 ## Client
 To use the client you will need to know your public IP for this we are going to use
