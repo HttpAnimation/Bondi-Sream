@@ -1,9 +1,10 @@
 # This project is not done yet let me get it in alpha then it will be public
 # Bondi-Sream
+
 ### Bondi-Sream is a video streamer for anything with a browser
 ## Server
 The server for Bondi-stream will only work on MacOS and Linux Windows has so many differences and I don't wanna and can't trust Windows to allow a Windows install if you would like, You are free to make a port to Windows credit is needed.
-
+![image](https://github.com/HttpAnimation/Bondi-Stream/assets/97435656/efab3aed-5ea5-4633-97ac-362d3fc65028)
 ## Running a Server
  To run a server first install the GitHub repo by opening a terminal and typing in
  ```
